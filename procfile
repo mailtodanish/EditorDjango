@@ -1,3 +1,2 @@
-heroku ps:scale web=1
-web: gunicorn editor.wsgi --log-file -
+web: gunicorn EditorDjnago.editor.wsgi --log-file -
 
