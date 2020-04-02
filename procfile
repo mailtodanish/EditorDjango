@@ -1,2 +1,2 @@
-web: gunicorn EditorDjnago.editor.wsgi --log-file -
+web: gunicorn editor.wsgi
 
