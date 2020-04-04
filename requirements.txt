@@ -1,9 +1,5 @@
 django
 gunicorn
 django-heroku
-textblob
 djangorestframework
-feedparser
-google-cloud
-google-cloud-language
 django-cors-headers
